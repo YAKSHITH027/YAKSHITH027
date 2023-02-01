@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **yakshith027@gmail.com**
 
-- ⚡ Fun fact **It works on my computer**
+- ⚡ Fun fact **"It works on my computer"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
