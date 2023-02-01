@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **yakshith027@gmail.com**
 
-- ⚡ Fun fact **will add later**
+- ⚡ Fun fact **I code in Production**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
