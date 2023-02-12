@@ -4,10 +4,10 @@
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yakshith027&label=Profile%20views&color=0e75b6&style=flat" alt="yakshith027" /> </p>
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **Typescript**
 
 - 💬 Ask me about **Javascript , React**
-
+- 📄 Check out my <a href="https://drive.google.com/file/d/1iRtaj8LV9l5y9-aiEVNRFC0KLz5Q-JMZ/view?usp=sharing" target="_blank" >Resume</a>
 - 📫 How to reach me **yakshith027@gmail.com**
 
 
