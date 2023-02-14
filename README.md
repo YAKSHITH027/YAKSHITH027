@@ -39,11 +39,38 @@
 <br />
 
 #
-<div display="flex" justify-content="center" align-items="center">
-<a href="https://github.com/yakshith027/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=yakshith027&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="yakshith's github stats" /></a>
-<a href="https://github.com/yakshith027/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yakshith027&layout=compact&theme=buefy&hide_border=true" /></a> 
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yakshith027&" alt="yakshith027" /></p>
-</div>
+ <div 
+        display="flex"
+        margin="1rem"
+        align="center"
+        justify="center"
+      
+      >
+        <div>
+          <a href="https://github.com/YAKSHITH027" />
+          <img
+            id="github-streak-stats"
+            width="500px"
+            src="https://github-readme-streak-stats.herokuapp.com?user=YAKSHITH027&theme=dark"
+          />
+        </div>
+        <div>
+          <a href="https://github.com/YAKSHITH027" />
+          <img
+            id="github-top-langs"
+            width="500px"
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=YAKSHITH027&layout=compact&theme=dark"
+          />
+        </div>
+        <div>
+          <a href="https://github.com/YAKSHITH027" />
+          <img
+            width="500px"
+            id="github-stats-card"
+            src="https://github-readme-stats.vercel.app/api?username=YAKSHITH027&count_private=true&show_icons=true&theme=dark"
+          />
+        </div>
+      </div>
 
 
 
