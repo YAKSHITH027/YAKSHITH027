@@ -40,7 +40,7 @@
 
 #
 
-| <a href="https://github.com/yakshith027/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=yakshith027&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="yakshith's github stats" /></a> | <a href="https://github.com/yakshith027/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yakshith027&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/yakshith027/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=yakshith027&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="yakshith's github stats" /></a> | <a href="https://github.com/yakshith027/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yakshith027&layout=compact&theme=buefy&hide_border=true" /></a> | <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yakshith027&" alt="yakshith027" /></p>
 | ------------- | ------------- |
 
 
