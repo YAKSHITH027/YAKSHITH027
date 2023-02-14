@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **Typescript**
 
 - 💬 Ask me about **Javascript , React**
-- 📄 Check out my <a href="https://yakshith027.github.io/" target="_blank" >Portfolio</a>
+- 📄 Check out my <a href="yakshith027.github.io" target="_blank" >Portfolio</a>
 - - 📄 Check out my <a href="https://drive.google.com/file/d/1iRtaj8LV9l5y9-aiEVNRFC0KLz5Q-JMZ/view?usp=sharing" target="_blank" >Resume</a>
 - 📫 How to reach me **yakshith027@gmail.com**
 
