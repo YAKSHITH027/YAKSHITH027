@@ -39,7 +39,7 @@
 <br />
 
 <div display="flex" justify-content="center" align-items="center">
-  <p width="100px" border="12px solid red">&nbsp;<img width="100px align="center" src="https://github-readme-stats.vercel.app/api?username=yakshith027&them=dark&show_icons=true&locale=en" alt="yakshith027" /></p>
+  <p width="100px" border="12px solid red">&nbsp;<img width="100px align="center" src="https://github-readme-stats.vercel.app/api?username=yakshith027&theme=dark&show_icons=true&locale=en" alt="yakshith027" /></p>
   <p width="100px"><img width="100px align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yakshith027&theme=dark" alt="yakshith027" /></p>
 
 </div>
