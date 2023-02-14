@@ -38,39 +38,12 @@
 
 <br />
 
+<div display="flex" justify-content="center" align-items="center">
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=madhurn29&show_icons=true&locale=en" alt="madhurn29" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madhurn29&" alt="madhurn29" /></p>
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=madhurn29&show_icons=true&locale=en&layout=compact" alt="madhurn29" /></p>
+</div>
 
- <div 
-        display="flex"
-        margin="1rem"
-        align="center"
-        justify="center"
-      
-      >
-        <div>
-          <a href="https://github.com/YAKSHITH027" />
-          <img
-            id="github-streak-stats"
-            width="500px"
-            src="https://github-readme-streak-stats.herokuapp.com?user=YAKSHITH027&theme=dark"
-          />
-        </div>
-        <div>
-          <a href="https://github.com/YAKSHITH027" />
-          <img
-            id="github-top-langs"
-            width="500px"
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=YAKSHITH027&layout=compact&theme=dark"
-          />
-        </div>
-        <div>
-          <a href="https://github.com/YAKSHITH027" />
-          <img
-            width="500px"
-            id="github-stats-card"
-            src="https://github-readme-stats.vercel.app/api?username=YAKSHITH027&count_private=true&show_icons=true&theme=dark"
-          />
-        </div>
-      </div>
 
 
 
