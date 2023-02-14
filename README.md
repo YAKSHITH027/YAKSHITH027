@@ -39,11 +39,11 @@
 <br />
 
 <div display="flex" justify-content="center" align-items="center">
-  <p width="200px" border="12px solid red">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yakshith027&show_icons=true&locale=en" alt="yakshith027" /></p>
-  <p width="200px"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yakshith027&theme=dark" alt="yakshith027" /></p>
+  <p width="100px" border="12px solid red">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yakshith027&them=dark&show_icons=true&locale=en" alt="yakshith027" /></p>
+  <p width="100px"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yakshith027&theme=dark" alt="yakshith027" /></p>
 
 </div>
- <p width="200px"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yakshith027&show_icons=true&locale=en&layout=compact" alt="yakshith027" /></p>
+ <p width="200px"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yakshith027&show_icons=true&locale=en&layout=compact&theme=dark" alt="yakshith027" /></p>
 
 
 
