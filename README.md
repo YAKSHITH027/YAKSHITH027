@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/p-yakshith-kulal-490b34227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="p yakshith kulal" height="30" width="40" /></a>
 <a href="https://instagram.com/_yakshith_kulal_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_yakshith_kulal_" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/yakshith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yakshith" height="30" width="40" /></a>
+<!-- <a href="https://www.leetcode.com/yakshith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yakshith" height="30" width="40" /></a> -->
 </p>
 
 ### 🧰 Languages and Tools
