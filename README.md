@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Javascript , React**
 - 📄 Check out my <a href="https://yakshith027.github.io/" target="_blank" >Portfolio</a>
-- - 📄 Check out my <a href="https://drive.google.com/file/d/1iRtaj8LV9l5y9-aiEVNRFC0KLz5Q-JMZ/view?usp=sharing" target="_blank" >Resume</a>
+- 📄 Check out my <a href="https://drive.google.com/file/d/1iRtaj8LV9l5y9-aiEVNRFC0KLz5Q-JMZ/view?usp=sharing" target="_blank" >Resume</a>
 - 📫 How to reach me **yakshith027@gmail.com**
 
 
@@ -37,13 +37,25 @@
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
 <br />
+ &nbsp;
+  &nbsp;
+   &nbsp; &nbsp; &nbsp;
+<table>
+  <td>
+      <p ><img align="center" src="https://github-readme-stats.vercel.app/api?username=yakshith027&theme=dark&show_icons=true&locale=en" alt="yakshith027" /></p>
+  </td>
+    <td>
+    <p><img align="center" width='420px' src="https://github-readme-stats.vercel.app/api/top-langs?username=yakshith027&show_icons=true&locale=en&layout=compact&theme=dark" alt="yakshith027" /></p>
+  </td>
+  <td>
+      <p ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yakshith027&theme=dark" alt="yakshith027" /></p>
+  </td>
 
-<div display="flex" justify-content="center" align-items="center">
-  <p >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yakshith027&theme=dark&show_icons=true&locale=en" alt="yakshith027" /></p>
-  <p ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yakshith027&theme=dark" alt="yakshith027" /></p>
+</table>
 
-</div>
- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yakshith027&show_icons=true&locale=en&layout=compact&theme=dark" alt="yakshith027" /></p>
+
+
+ 
 
 
 
