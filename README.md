@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yakshith027&label=Profile%20views&color=0e75b6&style=flat" alt="yakshith027" /> </p>
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **Next.js and Typescript**
 
 - 💬 Ask me about **Javascript , React**
 - 🧰 Check out my <a href="https://yakshith027.github.io/" target="_blank" >Portfolio</a>
