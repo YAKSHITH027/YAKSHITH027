@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Javascript , React**
 - 🧰 Check out my <a href="https://yakshith027.github.io/" target="_blank" >Portfolio</a>
-- 📋 Check out my <a href="https://drive.google.com/file/d/1iRtaj8LV9l5y9-aiEVNRFC0KLz5Q-JMZ/view?usp=sharing" target="_blank" >Resume</a>
+- 📋 Check out my <a href="https://drive.google.com/file/d/1IBK2C2nWYp304rSxzBDP6Z4dW8Phsase/view?usp=drive_link" target="_blank" >Resume</a>
 - 📫 How to reach me **yakshith027@gmail.com**
 
 
